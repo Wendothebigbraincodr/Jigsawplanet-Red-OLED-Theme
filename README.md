@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/PZ2fwzl.png" alt="Theme preview" width="960">
+  <img src="https://i.imgur.com/KdUnUBT.png" alt="Theme preview" width="960">
 </p>
 
 <h1 align="center">Jigsaw Planet Red OLED Theme</h1>
