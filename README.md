@@ -16,7 +16,7 @@ Download the RedTheme.js file above
 
 ## Usage
 
-You'll need a userscript manager like [Tampermonkey](https://www.tampermonkey.net/) or [Violentmonkey](https://www.tampermonkey.net/). I personally use Violentmonkey as in my experience it works better on firefox, but the choice is up to you.
+You'll need a userscript manager like [Tampermonkey](https://www.tampermonkey.net/) or [Violentmonkey](https://violentmonkey.github.io/). I personally use Violentmonkey as in my experience it works better on firefox, but the choice is up to you.
 
 ## Notes
 
